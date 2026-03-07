@@ -91,6 +91,7 @@ For reading papers, managing literature, exploring citations, and building AI-na
 For developer-facing AI products used in software engineering workflows.
 
 - [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands) ![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/OpenHands/OpenHands?style=flat-square) — Open-source AI-driven development platform and software agent.
+- [**HKUDS/DeepCode**](https://github.com/HKUDS/DeepCode) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/DeepCode?style=flat-square) — Open agentic coding product for Paper2Code, Text2Web, and Text2Backend workflows.
 
 ## Automation
 
