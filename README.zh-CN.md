@@ -1,5 +1,7 @@
 # Awesome Claws 中文版 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 中文版来啦！这里整理了 OpenClaw 生态相关的产品、技能、社区和资源——按使用场景分类。, skills, communities, and ecosystem resources — organized by use case.
 
 OpenClaw 位于个人 AI 助手、研究工作流、编码产品、自动化、技能生态和 agent 社区的交汇点。 of personal AI assistants, research workflows, coding products, automation, skills ecosystems, and agent communities.

@@ -1,5 +1,7 @@
 # Awesome Claws [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 > A curated list of OpenClaw-related products, skills, communities, and ecosystem resources — organized by use case.
 
 OpenClaw sits at the intersection of personal AI assistants, research workflows, coding products, automation, skills ecosystems, and agent communities.
