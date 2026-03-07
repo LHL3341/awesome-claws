@@ -1,4 +1,4 @@
-# Awesome Claws 中文版 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Claws [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
