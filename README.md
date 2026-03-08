@@ -45,7 +45,6 @@ A fast way to start exploring the ecosystem.
 
 For always-on AI assistants that live across chat apps, devices, and daily workflows.
 
-- [**datawhalechina/hello-claw**](https://github.com/datawhalechina/hello-claw) — Community-oriented OpenClaw starter project and learning resource.
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — Personal AI assistant across messaging channels, browser automation, devices, cron, and tools.
 - [**gaoyangz77/easyclaw**](https://github.com/gaoyangz77/easyclaw) ![GitHub stars](https://img.shields.io/github/stars/gaoyangz77/easyclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/gaoyangz77/easyclaw?style=flat-square) — Desktop app and local web panel that wraps OpenClaw with natural-language rules and simpler setup.
 - [**zhaojiaqi/MeowHub**](https://github.com/zhaojiaqi/MeowHub) ![GitHub stars](https://img.shields.io/github/stars/zhaojiaqi/MeowHub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhaojiaqi/MeowHub?style=flat-square) — Android app with built-in OpenClaw runtime for phone automation and shareable mobile skills.
@@ -160,6 +159,7 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 
 For inspiration, ecosystem discovery, and broader community-maintained collections.
 
+- [**datawhalechina/hello-claw**](https://github.com/datawhalechina/hello-claw) — Community-oriented OpenClaw starter project and learning resource.
 - [**machinae/awesome-claws**](https://github.com/machinae/awesome-claws) ![GitHub stars](https://img.shields.io/github/stars/machinae/awesome-claws?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/machinae/awesome-claws?style=flat-square) — Curated list of OpenClaw-inspired agents.
 - [**jontsai/openclaw-command-center**](https://github.com/jontsai/openclaw-command-center) ![GitHub stars](https://img.shields.io/github/stars/jontsai/openclaw-command-center?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/jontsai/openclaw-command-center?style=flat-square) — Real-time dashboard for OpenClaw sessions, costs, health, and scheduled tasks.
 - [**BlockRunAI/awesome-OpenClaw-Money-Maker**](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) — Monetization-oriented OpenClaw ecosystem list.
