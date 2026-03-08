@@ -114,6 +114,7 @@ For connecting tools, automating workflows, and turning AI into repeatable busin
 - [**activepieces/activepieces**](https://github.com/activepieces/activepieces) ![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/activepieces/activepieces?style=flat-square) — Open-source automation platform with growing AI agent and MCP support.
 - [**G3niusYukki/xianyu-openclaw**](https://github.com/G3niusYukki/xianyu-openclaw) ![GitHub stars](https://img.shields.io/github/stars/G3niusYukki/xianyu-openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/G3niusYukki/xianyu-openclaw?style=flat-square) — Automation workbench for Xianyu sellers with AI replies, quoting, fulfillment, multi-account management, and alerts.
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — Also useful for chat-native automation, scheduled tasks, and tool-driven assistants.
+- [**openclaw/lobster**](https://github.com/openclaw/lobster) ![GitHub stars](https://img.shields.io/github/stars/openclaw/lobster?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/lobster?style=flat-square) — OpenClaw-native workflow shell for typed pipelines, approvals, resumable jobs, and safer automations.
 
 ## Business & Prediction
 
