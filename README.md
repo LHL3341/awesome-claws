@@ -45,6 +45,7 @@ A fast way to start exploring the ecosystem.
 
 For always-on AI assistants that live across chat apps, devices, and daily workflows.
 
+- [**datawhalechina/hello-claw**](https://github.com/datawhalechina/hello-claw) — Community-oriented OpenClaw starter project and learning resource.
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — Personal AI assistant across messaging channels, browser automation, devices, cron, and tools.
 - [**gaoyangz77/easyclaw**](https://github.com/gaoyangz77/easyclaw) ![GitHub stars](https://img.shields.io/github/stars/gaoyangz77/easyclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/gaoyangz77/easyclaw?style=flat-square) — Desktop app and local web panel that wraps OpenClaw with natural-language rules and simpler setup.
 - [**zhaojiaqi/MeowHub**](https://github.com/zhaojiaqi/MeowHub) ![GitHub stars](https://img.shields.io/github/stars/zhaojiaqi/MeowHub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhaojiaqi/MeowHub?style=flat-square) — Android app with built-in OpenClaw runtime for phone automation and shareable mobile skills.
