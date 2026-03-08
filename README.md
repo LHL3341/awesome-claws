@@ -17,6 +17,7 @@ This list focuses on **products people can actually use**, not low-level impleme
 A fast way to start exploring the ecosystem.
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — The flagship personal AI assistant.
+- [**gaoyangz77/easyclaw**](https://github.com/gaoyangz77/easyclaw) ![GitHub stars](https://img.shields.io/github/stars/gaoyangz77/easyclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/gaoyangz77/easyclaw?style=flat-square) — Desktop app and UI layer that makes OpenClaw more approachable for non-technical users.
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/nanobot?style=flat-square) — A lightweight OpenClaw-style assistant.
 - [**AstrBotDevs/AstrBot**](https://github.com/AstrBotDevs/AstrBot) ![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/AstrBotDevs/AstrBot?style=flat-square) — Agentic IM chatbot infrastructure with broad platform support.
 - [**Prismer-AI/Prismer**](https://github.com/Prismer-AI/Prismer) ![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Prismer-AI/Prismer?style=flat-square) — Research-native product for papers and academic workflows.
@@ -35,6 +36,7 @@ A fast way to start exploring the ecosystem.
 - [Automation](#automation)
 - [Business & Prediction](#business--prediction)
 - [Community & Discovery](#community--discovery)
+- [Channels & Integrations](#channels--integrations)
 - [Skills & Registries](#skills--registries)
 - [Curated Lists & Use Cases](#curated-lists--use-cases)
 - [Contributing](#contributing)
@@ -44,6 +46,7 @@ A fast way to start exploring the ecosystem.
 For always-on AI assistants that live across chat apps, devices, and daily workflows.
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — Personal AI assistant across messaging channels, browser automation, devices, cron, and tools.
+- [**gaoyangz77/easyclaw**](https://github.com/gaoyangz77/easyclaw) ![GitHub stars](https://img.shields.io/github/stars/gaoyangz77/easyclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/gaoyangz77/easyclaw?style=flat-square) — Desktop app and local web panel that wraps OpenClaw with natural-language rules and simpler setup.
 - [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/nanobot?style=flat-square) — Ultra-lightweight OpenClaw-style assistant focused on simplicity and broad channel support.
 - [**zeroclaw-labs/zeroclaw**](https://github.com/zeroclaw-labs/zeroclaw) ![GitHub stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zeroclaw-labs/zeroclaw?style=flat-square) — Small, fast, autonomous AI assistant product with swappable components.
 - [**sipeed/picoclaw**](https://github.com/sipeed/picoclaw) ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/sipeed/picoclaw?style=flat-square) — Lightweight personal assistant designed for fast deployment on inexpensive hardware.
@@ -123,6 +126,14 @@ For discovering agent communities, discussion spaces, social layers, and product
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
 - [**AI Agent Store**](https://aiagentstore.ai/) — Directory for discovering AI agents and related products.
 
+## Channels & Integrations
+
+For channel plugins, transport extensions, and adjacent tooling that expands where OpenClaw can operate.
+
+- [**clawparty-ai/openclaw-channel-plugin-ztm**](https://github.com/clawparty-ai/openclaw-channel-plugin-ztm) ![GitHub stars](https://img.shields.io/github/stars/clawparty-ai/openclaw-channel-plugin-ztm?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/clawparty-ai/openclaw-channel-plugin-ztm?style=flat-square) — ZTM chat channel plugin for decentralized P2P messaging in the OpenClaw ecosystem.
+- [**DJTSmith18/openclaw-twilio**](https://github.com/DJTSmith18/openclaw-twilio) ![GitHub stars](https://img.shields.io/github/stars/DJTSmith18/openclaw-twilio?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/DJTSmith18/openclaw-twilio?style=flat-square) — Twilio channel plugin for SMS, MMS, RCS, and group messaging.
+- [**freestylefly/openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) — WeChat integration / channel extension project for OpenClaw.
+
 ## Skills & Registries
 
 For extending OpenClaw with reusable skills, finding community tools, and discovering integrations.
@@ -131,9 +142,9 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 - [**openai/skills**](https://github.com/openai/skills) ![GitHub stars](https://img.shields.io/github/stars/openai/skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openai/skills?style=flat-square) — Skills catalog for OpenAI Codex, with an open standard for agent skills.
 - [**Leey21/awesome-ai-research-writing**](https://github.com/Leey21/awesome-ai-research-writing) ![GitHub stars](https://img.shields.io/github/stars/Leey21/awesome-ai-research-writing?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Leey21/awesome-ai-research-writing?style=flat-square) — Curated AI research writing resources that fit the skills / tooling layer for academic workflows.
 - [**ClawHub**](https://clawhub.ai/) — Public registry for discovering and installing OpenClaw skills.
+- [**jasonzhangshuo/openclaw-community-skills**](https://github.com/jasonzhangshuo/openclaw-community-skills) — Public community skills repository for shareable OpenClaw skills such as `openclaw-watchdog`.
 - [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
 - [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) — OpenClaw integration project focused on XiaoHongShu workflows.
-- [**freestylefly/openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) — WeChat integration / channel extension project for OpenClaw.
 
 ## Curated Lists & Use Cases
 
