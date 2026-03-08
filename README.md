@@ -86,6 +86,7 @@ For role-based agent operating systems, multi-agent workspaces, and persistent a
 
 - [**msitarzewski/agency-agents**](https://github.com/msitarzewski/agency-agents) ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/msitarzewski/agency-agents?style=flat-square) — Collection of specialized AI agent personalities with distinct roles, processes, and deliverables.
 - [**AlexAnys/opencrew**](https://github.com/AlexAnys/opencrew) ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/AlexAnys/opencrew?style=flat-square) — Agent OS with role-based agents and collaborative execution flows.
+- [**RightNow-AI/openfang**](https://github.com/RightNow-AI/openfang) ![GitHub stars](https://img.shields.io/github/stars/RightNow-AI/openfang?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/RightNow-AI/openfang?style=flat-square) — Rust-built agent operating system for long-running autonomous agents, dashboards, schedules, and business workflows.
 
 ## Research
 
@@ -152,6 +153,7 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 - [**openclaw/skills**](https://github.com/openclaw/skills) ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/skills?style=flat-square) — Archived mirror of published ClawHub skills for ecosystem discovery and historical reference.
 - [**jasonzhangshuo/openclaw-community-skills**](https://github.com/jasonzhangshuo/openclaw-community-skills) — Public community skills repository for shareable OpenClaw skills such as `openclaw-watchdog`.
 - [**phenomenoner/openclaw-mem**](https://github.com/phenomenoner/openclaw-mem) ![GitHub stars](https://img.shields.io/github/stars/phenomenoner/openclaw-mem?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/phenomenoner/openclaw-mem?style=flat-square) — Local-first memory sidecar and optional memory engine for OpenClaw with searchable receipts and hybrid recall.
+- [**volcengine/OpenViking**](https://github.com/volcengine/OpenViking) ![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/volcengine/OpenViking?style=flat-square) — Context database for AI agents that unifies memory, resources, and skills with a filesystem-style model.
 - [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
 - [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) — OpenClaw integration project focused on XiaoHongShu workflows.
 
