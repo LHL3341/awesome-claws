@@ -127,6 +127,10 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 - [**openai/skills**](https://github.com/openai/skills) ![GitHub stars](https://img.shields.io/github/stars/openai/skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openai/skills?style=flat-square) — Skills catalog for OpenAI Codex, with an open standard for agent skills.
 - [**Leey21/awesome-ai-research-writing**](https://github.com/Leey21/awesome-ai-research-writing) ![GitHub stars](https://img.shields.io/github/stars/Leey21/awesome-ai-research-writing?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Leey21/awesome-ai-research-writing?style=flat-square) — Curated AI research writing resources that fit the skills / tooling layer for academic workflows.
 - [**ClawHub**](https://clawhub.ai/) — Public registry for discovering and installing OpenClaw skills.
+- [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
+- [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) — OpenClaw integration project focused on XiaoHongShu workflows.
+- [**freestylefly/openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) — WeChat integration / channel extension project for OpenClaw.
+- [**openclaw-community/openclaw-bilibili**](https://github.com/openclaw-community/openclaw-bilibili) — Bilibili-related OpenClaw integration / extension project.
 
 ## Curated Lists & Use Cases
 
