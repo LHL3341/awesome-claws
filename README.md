@@ -127,7 +127,7 @@ For discovering agent communities, discussion spaces, social layers, and product
 
 For extending OpenClaw with reusable skills, finding community tools, and discovering integrations.
 
-- [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/VoltAgent/awesome-openclaw-skills?style=flat-square) — Curated directory of community-built OpenClaw skills.
+- [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/VoltAgent/awesome-openclaw-skills?style=flat-square) — Curated, filtered directory of OpenClaw skills sourced from ClawHub.
 - [**openai/skills**](https://github.com/openai/skills) ![GitHub stars](https://img.shields.io/github/stars/openai/skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openai/skills?style=flat-square) — Skills catalog for OpenAI Codex, with an open standard for agent skills.
 - [**Leey21/awesome-ai-research-writing**](https://github.com/Leey21/awesome-ai-research-writing) ![GitHub stars](https://img.shields.io/github/stars/Leey21/awesome-ai-research-writing?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Leey21/awesome-ai-research-writing?style=flat-square) — Curated AI research writing resources that fit the skills / tooling layer for academic workflows.
 - [**ClawHub**](https://clawhub.ai/) — Public registry for discovering and installing OpenClaw skills.
