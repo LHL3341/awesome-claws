@@ -130,7 +130,6 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 - [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
 - [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) — OpenClaw integration project focused on XiaoHongShu workflows.
 - [**freestylefly/openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) — WeChat integration / channel extension project for OpenClaw.
-- [**openclaw-community/openclaw-bilibili**](https://github.com/openclaw-community/openclaw-bilibili) — Bilibili-related OpenClaw integration / extension project.
 
 ## Curated Lists & Use Cases
 
