@@ -4,6 +4,10 @@
 
 > A curated list of OpenClaw-related products, skills, communities, and ecosystem resources — organized by use case.
 
+<p align="center">
+  <img src="./assets/awesome-claws-cover.jpg" alt="Awesome Claws cover" width="960">
+</p>
+
 OpenClaw sits at the intersection of personal AI assistants, research workflows, coding products, automation, skills ecosystems, and agent communities.
 
 This list focuses on **products people can actually use**, not low-level implementation details.
