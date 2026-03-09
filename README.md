@@ -46,6 +46,8 @@ A fast way to start exploring the ecosystem.
 
 For always-on AI assistants that live across chat apps, devices, and daily workflows.
 
+- [**ScienceClaw**](http://xhslink.com/o/1FLBHM6AU1D) — OpenClaw-based AI research team concept / showcase shared on XiaoHongShu.
+- [**科研龙虾 / 老友记AI科研天团**](http://xhslink.com/o/5gqI7zlAwjH) — XiaoHongShu project showcase about building an OpenClaw-style AI research assistant for scientific workflows.
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat-square) — Personal AI assistant across messaging channels, browser automation, devices, cron, and tools.
 - [**gaoyangz77/easyclaw**](https://github.com/gaoyangz77/easyclaw) ![GitHub stars](https://img.shields.io/github/stars/gaoyangz77/easyclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/gaoyangz77/easyclaw?style=flat-square) — Desktop app and local web panel that wraps OpenClaw with natural-language rules and simpler setup.
 - [**zhaojiaqi/MeowHub**](https://github.com/zhaojiaqi/MeowHub) ![GitHub stars](https://img.shields.io/github/stars/zhaojiaqi/MeowHub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhaojiaqi/MeowHub?style=flat-square) — Android app with built-in OpenClaw runtime for phone automation and shareable mobile skills.
