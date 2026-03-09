@@ -178,6 +178,7 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 For deployment layers, control panels, and operational tooling that make OpenClaw easier to run and manage in practice.
 
 - [**1Panel-dev/1Panel**](https://github.com/1Panel-dev/1Panel) ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=flat-square) — VPS control panel with one-click OpenClaw deployment, useful for self-hosting and server operations.
+- [**OpenClawUP/local**](https://github.com/OpenClawUP/local) ![GitHub stars](https://img.shields.io/github/stars/OpenClawUP/local?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/OpenClawUP/local?style=flat-square) — One-click macOS installer and local control panel for running OpenClaw with channels, models, and background service management.
 
 ## Curated Lists & Use Cases
 
