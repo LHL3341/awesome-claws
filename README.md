@@ -103,6 +103,7 @@ For reading papers, managing literature, exploring citations, and building AI-na
 
 For developer-facing AI products used in software engineering workflows.
 
+- [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) ![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat-square) — Open-source AI-powered desktop automation and computer-use agent infrastructure.
 - [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands) ![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/OpenHands/OpenHands?style=flat-square) — Open-source AI-driven development platform and software agent.
 - [**HKUDS/DeepCode**](https://github.com/HKUDS/DeepCode) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/DeepCode?style=flat-square) — Open agentic coding product for Paper2Code, Text2Web, and Text2Backend workflows.
 - [**microsoft/TaskWeaver**](https://github.com/microsoft/TaskWeaver) ![GitHub stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/microsoft/TaskWeaver?style=flat-square) — Code-first agent framework for planning and executing stateful data and analysis workflows.
@@ -111,6 +112,7 @@ For developer-facing AI products used in software engineering workflows.
 
 For connecting tools, automating workflows, and turning AI into repeatable business or productivity systems.
 
+- [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/CLI-Anything?style=flat-square) — One-command tool that turns source repos into agent-usable CLI interfaces for software automation.
 - [**n8n-io/n8n**](https://github.com/n8n-io/n8n) ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/n8n-io/n8n?style=flat-square) — Workflow automation platform with native AI capabilities and a large integration ecosystem.
 - [**langgenius/dify**](https://github.com/langgenius/dify) ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/langgenius/dify?style=flat-square) — Production-ready platform for agentic workflow development.
 - [**activepieces/activepieces**](https://github.com/activepieces/activepieces) ![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/activepieces/activepieces?style=flat-square) — Open-source automation platform with growing AI agent and MCP support.
