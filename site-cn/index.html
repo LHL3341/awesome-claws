@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Awesome Claws 中文站</title>
+  <meta name="description" content="按使用场景整理的 OpenClaw 相关产品、技能、社区与生态资源清单。" />
+  <style>
+    :root {
+      --bg: #0b1020;
+      --bg-soft: #111831;
+      --card: rgba(255,255,255,0.06);
+      --text: #eef2ff;
+      --muted: #b7c0d8;
+      --line: rgba(255,255,255,0.10);
+      --accent: #7c9cff;
+      --accent-2: #7ef0c5;
+      --shadow: 0 20px 60px rgba(0,0,0,.35);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(124,156,255,.20), transparent 30%),
+        radial-gradient(circle at top right, rgba(126,240,197,.12), transparent 25%),
+        linear-gradient(180deg, #0b1020 0%, #0d1226 100%);
+      line-height: 1.65;
+    }
+    a { color: inherit; text-decoration: none; }
+    .wrap { width: min(1120px, calc(100% - 32px)); margin: 0 auto; }
+    .hero {
+      padding: 72px 0 36px;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 28px;
+      align-items: center;
+    }
+    .badge {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      padding: 8px 12px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(255,255,255,.04);
+      color: var(--muted);
+      font-size: 14px;
+    }
+    h1 {
+      font-size: clamp(40px, 7vw, 72px);
+      line-height: 1.02;
+      margin: 18px 0 18px;
+      letter-spacing: -0.03em;
+    }
+    .lead {
+      font-size: 19px;
+      color: var(--muted);
+      max-width: 760px;
+    }
+    .cta {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 28px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 13px 18px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.04);
+      color: var(--text);
+      font-weight: 600;
+    }
+    .btn.primary {
+      background: linear-gradient(135deg, var(--accent), #9d7cff);
+      border: none;
+      color: white;
+      box-shadow: var(--shadow);
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      backdrop-filter: blur(10px);
+    }
+    .cover {
+      width: 100%;
+      display: block;
+      aspect-ratio: 16 / 10;
+      object-fit: cover;
+    }
+    .panel-body { padding: 18px 20px 20px; }
+    .panel-title { font-size: 15px; color: var(--muted); margin-bottom: 8px; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-top: 34px;
+    }
+    .stat {
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+    }
+    .stat strong { display: block; font-size: 28px; margin-bottom: 6px; }
+    section { padding: 24px 0 28px; }
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+    h2 { font-size: 30px; margin: 0; }
+    .sub { color: var(--muted); max-width: 720px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 20px;
+    }
+    .card h3 { margin: 0 0 10px; font-size: 20px; }
+    .card p { margin: 0; color: var(--muted); }
+    .tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+    .tag {
+      padding: 7px 11px;
+      border-radius: 999px;
+      background: rgba(124,156,255,.12);
+      border: 1px solid rgba(124,156,255,.22);
+      color: #dbe4ff;
+      font-size: 13px;
+    }
+    .footer {
+      padding: 28px 0 60px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    @media (max-width: 900px) {
+      .hero-grid, .grid, .stats { grid-template-columns: 1fr; }
+      .hero { padding-top: 40px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero-grid">
+        <div>
+          <div class="badge">🦞 Awesome Claws · OpenClaw 中文生态导航</div>
+          <h1>把 OpenClaw 生态，整理成一张真正能用的地图。</h1>
+          <p class="lead">
+            Awesome Claws 是一个按使用场景整理的 OpenClaw 相关产品、技能、社区与生态资源清单。
+            它不想做一份“名词堆砌大全”，而是想成为一个真正能帮助你发现项目、理解生态、快速上手的导航入口。
+          </p>
+          <div class="cta">
+            <a class="btn primary" href="https://github.com/LHL3341/awesome-claws" target="_blank" rel="noreferrer">查看 GitHub 仓库</a>
+            <a class="btn" href="../README.zh-CN.md">阅读中文 README</a>
+            <a class="btn" href="../README.md">Read in English</a>
+          </div>
+          <div class="stats">
+            <div class="stat"><strong>产品导向</strong><span>优先收录可直接使用的项目，而不是底层零件。</span></div>
+            <div class="stat"><strong>双语维护</strong><span>中文与英文 README 同步更新，避免信息漂移。</span></div>
+            <div class="stat"><strong>持续发现</strong><span>定期巡检 GitHub 新项目，保守验真后再收录。</span></div>
+          </div>
+        </div>
+        <div class="panel">
+          <img class="cover" src="../assets/awesome-claws-cover.jpg" alt="Awesome Claws 封面图" />
+          <div class="panel-body">
+            <div class="panel-title">这个仓库在做什么？</div>
+            <div>
+              围绕 OpenClaw，把个人助手、科研、编程、自动化、渠道接入、skills、部署与社区资源，
+              整理成一个更容易浏览、比较、发现和收录的生态入口。
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <div>
+          <h2>适合谁看</h2>
+          <div class="sub">如果你不是只想“看个项目名”，而是想知道这个生态能拿来做什么，这个站就是给你的。</div>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card">
+          <h3>刚接触 OpenClaw 的人</h3>
+          <p>想快速理解 OpenClaw 生态里有哪些代表项目、哪些方向已经长出来、从哪里开始看比较合适。</p>
+        </div>
+        <div class="card">
+          <h3>想做 AI Assistant / Agent 产品的人</h3>
+          <p>可以从这里看到产品形态、渠道接入、工作流自动化、skills 生态与部署面板的实际案例。</p>
+        </div>
+        <div class="card">
+          <h3>科研 / Coding / Automation 实践者</h3>
+          <p>如果你关心 AI 科研工作流、coding agent、自动化系统，这里会比泛 AI 列表更聚焦、更能落地。</p>
+        </div>
+        <div class="card">
+          <h3>持续跟踪生态的人</h3>
+          <p>如果你想看“OpenClaw 周边最近又长出了什么”，这个仓库就是一个长期维护的观察窗口。</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <div>
+          <h2>收录范围</h2>
+          <div class="sub">不是所有“沾点 agent” 的项目都进来。我们更关心它是不是对真实使用者有意义。</div>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card">
+          <h3>优先收录</h3>
+          <div class="tags">
+            <span class="tag">个人助手</span>
+            <span class="tag">学术研究</span>
+            <span class="tag">编程开发</span>
+            <span class="tag">自动化</span>
+            <span class="tag">渠道与集成</span>
+            <span class="tag">技能与注册表</span>
+            <span class="tag">部署与运维</span>
+            <span class="tag">精选列表与用例</span>
+          </div>
+          <p style="margin-top:14px;">优先是产品级、可直接使用、有 README / 文档 / 安装路径 / 明确用途的项目。</p>
+        </div>
+        <div class="card">
+          <h3>默认不重点收</h3>
+          <p>
+            纯底层 framework、与 OpenClaw 关系较弱的泛 AI 项目、公开信号太弱的仓库、
+            只有概念没有落地的演示型项目。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <div>
+          <h2>第一次来，建议从这里开始</h2>
+          <div class="sub">比起从头滚到尾，先按任务看更有效率。</div>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>精选</h3><p>快速建立整体印象，先看旗舰项目、代表产品和高价值入口。</p></div>
+        <div class="card"><h3>个人助手</h3><p>看 OpenClaw 风格产品主线，以及常驻型 AI Assistant 的核心形态。</p></div>
+        <div class="card"><h3>学术研究</h3><p>看 AI 科研工作流、论文阅读、知识管理与研究助手方向的项目。</p></div>
+        <div class="card"><h3>自动化</h3><p>看工具编排、工作流执行、agent-native automation 和任务系统。</p></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <div>
+          <h2>项目目标</h2>
+          <div class="sub">不是做一个“大而全”的列表，而是做一个“够准、够实用、够好逛”的入口。</div>
+        </div>
+      </div>
+      <div class="card">
+        <p>
+          我们希望 Awesome Claws 最终成为 <strong>OpenClaw 生态里最好用的中文 / 双语导航入口之一</strong>。
+          当你想知道“这个生态现在到底有什么”“哪个项目值得看”“该往哪个方向扩展”时，
+          能第一时间想到这里。
+        </p>
+      </div>
+    </section>
+
+    <div class="footer">
+      Awesome Claws · 中文站（静态预览版）
+    </div>
+  </main>
+</body>
+</html>
