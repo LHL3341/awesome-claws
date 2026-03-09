@@ -93,8 +93,8 @@ For role-based agent operating systems, multi-agent workspaces, and persistent a
 
 For reading papers, managing literature, exploring citations, and building AI-native academic workflows.
 
-- [**ScienceClaw**](http://xhslink.com/o/1FLBHM6AU1D) — OpenClaw-based AI research team concept / showcase shared on XiaoHongShu.
-- [**科研龙虾 / 老友记AI科研天团**](http://xhslink.com/o/5gqI7zlAwjH) — XiaoHongShu project showcase about building an OpenClaw-style AI research assistant for scientific workflows.
+- [**Zaoqu-Liu/ScienceClaw**](https://github.com/Zaoqu-Liu/ScienceClaw) ![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/ScienceClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Zaoqu-Liu/ScienceClaw?style=flat-square) — OpenClaw-based AI research team / scientific workflow assistant project.
+
 - [**Prismer-AI/Prismer**](https://github.com/Prismer-AI/Prismer) ![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Prismer-AI/Prismer?style=flat-square) — Open-source research platform for paper reading, citation graphs, collaborative workspaces, and academic workflows.
 - [**ymx10086/ResearchClaw**](https://github.com/ymx10086/ResearchClaw) ![GitHub stars](https://img.shields.io/github/stars/ymx10086/ResearchClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ymx10086/ResearchClaw?style=flat-square) — AI-powered research assistant for search, summaries, references, notes, experiment tracking, and writing.
 - [**DannyWANGD/PaperBrain**](https://github.com/DannyWANGD/PaperBrain) ![GitHub stars](https://img.shields.io/github/stars/DannyWANGD/PaperBrain?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/DannyWANGD/PaperBrain?style=flat-square) — Automated research intelligence pipeline for screening papers, deep analysis, knowledge-base linking, and audio briefings.
