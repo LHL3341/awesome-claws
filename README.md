@@ -38,6 +38,7 @@ A fast way to start exploring the ecosystem.
 - [Community & Discovery](#community--discovery)
 - [Channels & Integrations](#channels--integrations)
 - [Skills & Registries](#skills--registries)
+- [Deployment & Ops](#deployment--ops)
 - [Curated Lists & Use Cases](#curated-lists--use-cases)
 - [Contributing](#contributing)
 
@@ -135,6 +136,7 @@ For discovering agent communities, discussion spaces, social layers, and product
 - [**Moltbook**](https://www.moltbook.com/) — Community space around AI agents and the broader OpenClaw-style ecosystem.
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
 - [**AI Agent Store**](https://aiagentstore.ai/) — Directory for discovering AI agents and related products.
+- [**slicenferqin/clawplay**](https://github.com/slicenferqin/clawplay) ![GitHub stars](https://img.shields.io/github/stars/slicenferqin/clawplay?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/slicenferqin/clawplay?style=flat-square) — 中文 OpenClaw `SOUL.md` 分享社区与目录站，适合发现、比较和安装人格配置。
 
 ## Channels & Integrations
 
@@ -145,6 +147,7 @@ For channel plugins, transport extensions, and adjacent tooling that expands whe
 - [**ClawCall/clawcall**](https://github.com/ClawCall/clawcall) ![GitHub stars](https://img.shields.io/github/stars/ClawCall/clawcall?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ClawCall/clawcall?style=flat-square) — Phone-call layer for AI agents with inbound calls, callbacks, scheduled calls, and transcripts.
 - [**xigpz/openclaw-console**](https://github.com/xigpz/openclaw-console) ![GitHub stars](https://img.shields.io/github/stars/xigpz/openclaw-console?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/xigpz/openclaw-console?style=flat-square) — Visual admin console for managing OpenClaw platforms, models, skills, and system settings.
 - [**freestylefly/openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) ![GitHub stars](https://img.shields.io/github/stars/freestylefly/openclaw-wechat?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/freestylefly/openclaw-wechat?style=flat-square) — WeChat integration / channel extension project for OpenClaw.
+- [**BDlxj/ruliu-openclaw**](https://github.com/BDlxj/ruliu-openclaw) ![GitHub stars](https://img.shields.io/github/stars/BDlxj/ruliu-openclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/BDlxj/ruliu-openclaw?style=flat-square) — 百度如流（Ruliu Hi）企业消息频道插件，支持私聊、群聊、访问控制与会话追踪。
 
 ## Skills & Registries
 
@@ -163,6 +166,14 @@ For extending OpenClaw with reusable skills, finding community tools, and discov
 - [**volcengine/OpenViking**](https://github.com/volcengine/OpenViking) ![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/volcengine/OpenViking?style=flat-square) — Context database for AI agents that unifies memory, resources, and skills with a filesystem-style model.
 - [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) ![GitHub stars](https://img.shields.io/github/stars/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
 - [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) ![GitHub stars](https://img.shields.io/github/stars/zhjiang22/openclaw-xhs?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhjiang22/openclaw-xhs?style=flat-square) — OpenClaw integration project focused on XiaoHongShu workflows.
+- [**ProSkillsMD/proskills**](https://github.com/ProSkillsMD/proskills) ![GitHub stars](https://img.shields.io/github/stars/ProSkillsMD/proskills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ProSkillsMD/proskills?style=flat-square) — 社区整理的 OpenClaw 技能目录，适合补充 ClawHub 之外的发现入口。
+
+
+## Deployment & Ops
+
+For deployment layers, control panels, and operational tooling that make OpenClaw easier to run and manage in practice.
+
+- [**1Panel-dev/1Panel**](https://github.com/1Panel-dev/1Panel) ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=flat-square) — VPS control panel with one-click OpenClaw deployment, useful for self-hosting and server operations.
 
 ## Curated Lists & Use Cases
 
