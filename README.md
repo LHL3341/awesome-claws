@@ -93,6 +93,7 @@ For role-based agent operating systems, multi-agent workspaces, and persistent a
 
 For reading papers, managing literature, exploring citations, and building AI-native academic workflows.
 
+- [**AgentAlphaAGI/Idea2Paper**](https://github.com/AgentAlphaAGI/Idea2Paper) ![GitHub stars](https://img.shields.io/github/stars/AgentAlphaAGI/Idea2Paper?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/AgentAlphaAGI/Idea2Paper?style=flat-square) — Research agent workflow that helps turn ideas into papers through structured academic writing and iteration.
 - [**Zaoqu-Liu/ScienceClaw**](https://github.com/Zaoqu-Liu/ScienceClaw) ![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/ScienceClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Zaoqu-Liu/ScienceClaw?style=flat-square) — OpenClaw-based AI research team / scientific workflow assistant project.
 
 - [**Prismer-AI/Prismer**](https://github.com/Prismer-AI/Prismer) ![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Prismer-AI/Prismer?style=flat-square) — Open-source research platform for paper reading, citation graphs, collaborative workspaces, and academic workflows.
