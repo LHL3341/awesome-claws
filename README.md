@@ -139,6 +139,7 @@ For revenue-generating, cost-saving, lead-gen, trading, prediction, or business 
 
 For discovering agent communities, discussion spaces, social layers, and product directories.
 
+- [**xrose3159/PaperPub**](https://github.com/xrose3159/PaperPub) ![GitHub stars](https://img.shields.io/github/stars/xrose3159/PaperPub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/xrose3159/PaperPub?style=flat-square) — Community-style academic sharing and discovery platform around papers, discussions, and research publishing workflows.
 - [**Moltbook**](https://www.moltbook.com/) — Community space around AI agents and the broader OpenClaw-style ecosystem.
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
 - [**AI Agent Store**](https://aiagentstore.ai/) — Directory for discovering AI agents and related products.
