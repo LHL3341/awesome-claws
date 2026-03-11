@@ -1,6 +1,6 @@
 # Awesome Claws [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[中文](./README.md) | [English](./README.en.md)
+[English](./README.en.md)
 
 > A curated list of OpenClaw-related products, skills, communities, and ecosystem resources — organized by use case.
 
