@@ -1,8 +1,12 @@
-# Awesome Claws [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# OpenClaw 入门教程及项目集锦
 
 [中文](./README.md) | [English](./README.en.md)
 
 > OpenClaw 入门教程及项目集锦：按使用场景整理的产品、技能、社区与生态资源。
+
+<p align="center">
+  <img src="./assets/awesome-claws-cover.jpg" alt="OpenClaw 入门教程及项目集锦封面" width="960">
+</p>
 
 OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编程开发产品、自动化平台、技能生态，以及 agent 社区。
 
