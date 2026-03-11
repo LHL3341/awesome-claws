@@ -1,6 +1,6 @@
 # OpenClaw 入门教程及项目集锦
 
-[English](./README.en.md)
+[中文](./README.md) | [English](./README.en.md)
 
 > OpenClaw 入门教程及项目集锦：按使用场景整理的产品、技能、社区与生态资源。
 
