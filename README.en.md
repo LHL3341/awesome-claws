@@ -30,12 +30,12 @@ A fast way to start exploring the ecosystem.
 
 - [Featured](#featured)
 - [Personal Assistant](#personal-assistant)
-- [Agent OS](#agent-os)
+- [Agent Company](#agent-company)
 - [Research](#research)
 - [Coding](#coding)
 - [Automation](#automation)
 - [Business & Prediction](#business--prediction)
-- [Community & Discovery](#community--discovery)
+- [Agent Community](#agent-community)
 - [Content & Creator Workflows](#content--creator-workflows)
 - [Channels & Integrations](#channels--integrations)
 - [Skills & Registries](#skills--registries)
@@ -81,14 +81,32 @@ For always-on AI assistants that live across chat apps, devices, and daily workf
 - [**princezuda/safeclaw**](https://github.com/princezuda/safeclaw) ![GitHub stars](https://img.shields.io/github/stars/princezuda/safeclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/princezuda/safeclaw?style=flat-square) — Safety-focused OpenClaw alternative.
 
 > This section is intentionally broad for now and includes both well-known products and promising OpenClaw-inspired assistant projects. It can be filtered further later.
+## Agent Company
 
-## Agent OS
-
-For role-based agent operating systems, multi-agent workspaces, and persistent agent execution products.
+For role-based agent companies, multi-agent workspaces, and persistent agent execution products.
 
 - [**msitarzewski/agency-agents**](https://github.com/msitarzewski/agency-agents) ![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/msitarzewski/agency-agents?style=flat-square) — Collection of specialized AI agent personalities with distinct roles, processes, and deliverables.
 - [**AlexAnys/opencrew**](https://github.com/AlexAnys/opencrew) ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/AlexAnys/opencrew?style=flat-square) — Agent OS with role-based agents and collaborative execution flows.
 - [**RightNow-AI/openfang**](https://github.com/RightNow-AI/openfang) ![GitHub stars](https://img.shields.io/github/stars/RightNow-AI/openfang?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/RightNow-AI/openfang?style=flat-square) — Rust-built agent operating system for long-running autonomous agents, dashboards, schedules, and business workflows.
+## Agent Community
+
+For agent communities, discussion spaces, social layers, and product directories.
+
+- [**Moltbook**](https://www.moltbook.com/) — Community space around AI agents and the broader OpenClaw-style ecosystem.
+- [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
+- [**AI Agent Store**](https://aiagentstore.ai/) — Directory for discovering AI agents and related products.
+- [**slicenferqin/clawplay**](https://github.com/slicenferqin/clawplay) ![GitHub stars](https://img.shields.io/github/stars/slicenferqin/clawplay?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/slicenferqin/clawplay?style=flat-square) — 中文 OpenClaw `SOUL.md` 分享社区与目录站，适合发现、比较和安装人格配置。
+- [**ythx-101/openclaw-qa**](https://github.com/ythx-101/openclaw-qa) ![GitHub stars](https://img.shields.io/github/stars/ythx-101/openclaw-qa?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ythx-101/openclaw-qa?style=flat-square) — Community Q&A repo for OpenClaw practitioners, with real-world discussions on memory, multi-agent setups, tools, and deployment pitfalls.
+## Content & Creator Workflows
+
+For content operations, creator tooling, social publishing workflows, and audience-facing automation built around OpenClaw.
+
+- [**imyelo/openclaw-chats-share**](https://github.com/imyelo/openclaw-chats-share) ![GitHub stars](https://img.shields.io/github/stars/imyelo/openclaw-chats-share?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/imyelo/openclaw-chats-share?style=flat-square) — OpenClaw skill that exports chats into permanent, self-hosted GitHub Pages links with PR-based publishing.
+- [**xrose3159/PaperPub**](https://github.com/xrose3159/PaperPub) ![GitHub stars](https://img.shields.io/github/stars/xrose3159/PaperPub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/xrose3159/PaperPub?style=flat-square) — Community-style academic sharing and discovery platform around papers, discussions, and research publishing workflows.
+- [**autoclaw-cc/xiaohongshu-skills**](https://github.com/autoclaw-cc/xiaohongshu-skills) ![GitHub stars](https://img.shields.io/github/stars/autoclaw-cc/xiaohongshu-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/autoclaw-cc/xiaohongshu-skills?style=flat-square) — High-signal XiaoHongShu skills collection for OpenClaw workflows.
+- [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) ![GitHub stars](https://img.shields.io/github/stars/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
+- [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) ![GitHub stars](https://img.shields.io/github/stars/zhjiang22/openclaw-xhs?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhjiang22/openclaw-xhs?style=flat-square) — OpenClaw integration project focused on XiaoHongShu workflows.
+
 
 ## Research
 
@@ -141,25 +159,7 @@ For revenue-generating, cost-saving, lead-gen, trading, prediction, or business 
 - [**EthanAlgoX/MarketBot**](https://github.com/EthanAlgoX/MarketBot) ![GitHub stars](https://img.shields.io/github/stars/EthanAlgoX/MarketBot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/EthanAlgoX/MarketBot?style=flat-square) — Finance-focused OpenClaw-style assistant for market briefs, watchlists, and recurring trading research workflows.
 - [**BlockRunAI/awesome-OpenClaw-Money-Maker**](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) — Curated resources for monetizing OpenClaw-style AI agents.
 
-## Community & Discovery
 
-For discovering agent communities, discussion spaces, social layers, and product directories.
-
-- [**Moltbook**](https://www.moltbook.com/) — Community space around AI agents and the broader OpenClaw-style ecosystem.
-- [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
-- [**AI Agent Store**](https://aiagentstore.ai/) — Directory for discovering AI agents and related products.
-- [**slicenferqin/clawplay**](https://github.com/slicenferqin/clawplay) ![GitHub stars](https://img.shields.io/github/stars/slicenferqin/clawplay?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/slicenferqin/clawplay?style=flat-square) — 中文 OpenClaw `SOUL.md` 分享社区与目录站，适合发现、比较和安装人格配置。
-- [**ythx-101/openclaw-qa**](https://github.com/ythx-101/openclaw-qa) ![GitHub stars](https://img.shields.io/github/stars/ythx-101/openclaw-qa?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ythx-101/openclaw-qa?style=flat-square) — Community Q&A repo for OpenClaw practitioners, with real-world discussions on memory, multi-agent setups, tools, and deployment pitfalls.
-
-## Content & Creator Workflows
-
-For content operations, creator tooling, social publishing workflows, and audience-facing automation built around OpenClaw.
-
-- [**imyelo/openclaw-chats-share**](https://github.com/imyelo/openclaw-chats-share) ![GitHub stars](https://img.shields.io/github/stars/imyelo/openclaw-chats-share?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/imyelo/openclaw-chats-share?style=flat-square) — OpenClaw skill that exports chats into permanent, self-hosted GitHub Pages links with PR-based publishing.
-- [**xrose3159/PaperPub**](https://github.com/xrose3159/PaperPub) ![GitHub stars](https://img.shields.io/github/stars/xrose3159/PaperPub?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/xrose3159/PaperPub?style=flat-square) — Community-style academic sharing and discovery platform around papers, discussions, and research publishing workflows.
-- [**autoclaw-cc/xiaohongshu-skills**](https://github.com/autoclaw-cc/xiaohongshu-skills) ![GitHub stars](https://img.shields.io/github/stars/autoclaw-cc/xiaohongshu-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/autoclaw-cc/xiaohongshu-skills?style=flat-square) — High-signal XiaoHongShu skills collection for OpenClaw workflows.
-- [**Xiangyu-CAS/xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) ![GitHub stars](https://img.shields.io/github/stars/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square) — Skill / workflow package for XiaoHongShu operations in the OpenClaw ecosystem.
-- [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) ![GitHub stars](https://img.shields.io/github/stars/zhjiang22/openclaw-xhs?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhjiang22/openclaw-xhs?style=flat-square) — OpenClaw integration project focused on XiaoHongShu workflows.
 
 ## Channels & Integrations
 
