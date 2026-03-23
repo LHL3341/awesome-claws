@@ -307,4 +307,10 @@ If possible, add a short description focused on **what job the product is useful
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LHL3341/awesome-claws&type=Date)](https://star-history.com/#LHL3341/awesome-claws&Date)
+<a href="https://star-history.com/#LHL3341/awesome-claws&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=LHL3341/awesome-claws&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=LHL3341/awesome-claws&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=LHL3341/awesome-claws&type=Date" />
+ </picture>
+</a>
