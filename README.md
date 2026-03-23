@@ -24,6 +24,7 @@ The best representative from each category. Start here for a quick overview of t
 - [**n8n-io/n8n**](https://github.com/n8n-io/n8n) ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/n8n-io/n8n?style=flat-square) — Automation platform with strong AI and integration support. `Automation`
 - [**mem0ai/mem0**](https://github.com/mem0ai/mem0) ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/mem0ai/mem0?style=flat-square) — Memory layer for personalized AI assistants and agent workflows. `Skills & Tools`
 - [**Prismer-AI/Prismer**](https://github.com/Prismer-AI/Prismer) ![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Prismer-AI/Prismer?style=flat-square) — Research-native product for papers and academic workflows. `Research`
+- [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. `Research`
 - [**alibaba/hiclaw**](https://github.com/alibaba/hiclaw) ![GitHub stars](https://img.shields.io/github/stars/alibaba/hiclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/alibaba/hiclaw?style=flat-square) — Alibaba's open-source multi-agent collaboration system with Manager-Workers architecture on Matrix IM. `Agent Company`
 - [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) ![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat-square) — Open-source AI-powered desktop automation and computer-use agent infrastructure. `Agent Company`
 - [**langbot-app/LangBot**](https://github.com/langbot-app/LangBot) ![GitHub stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/langbot-app/LangBot?style=flat-square) — Production-grade multi-platform IM bot framework supporting Discord, Slack, Telegram, WeChat, Feishu, DingTalk, QQ, and more. `Channels & Integrations`
@@ -127,6 +128,7 @@ For paper reading, reference management, citation exploration, and building AI-n
 - [**DannyWANGD/PaperBrain**](https://github.com/DannyWANGD/PaperBrain) ![GitHub stars](https://img.shields.io/github/stars/DannyWANGD/PaperBrain?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/DannyWANGD/PaperBrain?style=flat-square) — Automated research intelligence pipeline for screening papers, deep analysis, knowledge-base linking, and audio briefings.
 - [**Zaoqu-Liu/ScienceClaw**](https://github.com/Zaoqu-Liu/ScienceClaw) ![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/ScienceClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Zaoqu-Liu/ScienceClaw?style=flat-square) — OpenClaw-based AI research team / scientific workflow assistant project.
 - [**Color2333/PaperMind**](https://github.com/Color2333/PaperMind) ![GitHub stars](https://img.shields.io/github/stars/Color2333/PaperMind?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Color2333/PaperMind?style=flat-square) — AI-driven academic research workflow platform focused on tracking, analysis, knowledge graphs, and writing support.
+- [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) — ARIS: Lightweight Markdown-only skills for autonomous ML research — cross-model review loops, idea discovery, experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
 ## Coding
 
@@ -302,3 +304,13 @@ Suggested exclusions:
 - Low-level infra/framework components that are not meaningful as standalone end-user products
 
 If possible, add a short description focused on **what job the product is useful for**.
+
+## Star History
+
+<a href="https://star-history.com/#LHL3341/awesome-claws&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LHL3341/awesome-claws&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LHL3341/awesome-claws&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LHL3341/awesome-claws&type=Date" />
+ </picture>
+</a>
