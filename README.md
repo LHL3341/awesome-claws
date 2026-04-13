@@ -208,6 +208,7 @@ For revenue generation, cost savings, lead gen, trading, prediction, or business
 - [**666ghj/MiroFish**](https://github.com/666ghj/MiroFish) ![GitHub stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/666ghj/MiroFish?style=flat-square) — Swarm intelligence engine for predictions across various domains.
 - [**BlockRunAI/awesome-OpenClaw-Money-Maker**](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat-square) — Curated resources for monetizing OpenClaw-style AI agents.
 - [**EthanAlgoX/MarketBot**](https://github.com/EthanAlgoX/MarketBot) ![GitHub stars](https://img.shields.io/github/stars/EthanAlgoX/MarketBot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/EthanAlgoX/MarketBot?style=flat-square) — Finance-focused OpenClaw-style assistant for market briefs, watchlists, and recurring trading research workflows.
+- [**kwstx/engram_translator**](https://github.com/kwstx/engram_translator) ![GitHub stars](https://img.shields.io/github/stars/kwstx/engram_translator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/kwstx/engram_translator?style=flat-square) - Universal swarm intelligence bridge for automated multi-platform trading.
 
 ## Channels & Integrations
 
