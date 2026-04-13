@@ -104,6 +104,7 @@ For agent communities, discussion spaces, social layers, and product directories
 
 - [**ythx-101/openclaw-qa**](https://github.com/ythx-101/openclaw-qa) ![GitHub stars](https://img.shields.io/github/stars/ythx-101/openclaw-qa?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ythx-101/openclaw-qa?style=flat-square) — Community Q&A repo for OpenClaw practitioners, with real-world discussions on memory, multi-agent setups, tools, and deployment pitfalls.
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
+- [**mrpeter2025/clawsocial-plugin**](https://github.com/mrpeter2025/clawsocial-plugin) ![GitHub stars](https://img.shields.io/github/stars/mrpeter2025/clawsocial-plugin?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/mrpeter2025/clawsocial-plugin?style=flat-square) — 🦞 通过 AI Agent 帮你发现和连接兴趣相投的人。语义匹配、实时消息、名片分享、网页收件箱。开箱即用。 `Agent Community`
 
 ## Content & Creator Workflows
 
