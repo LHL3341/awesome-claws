@@ -326,3 +326,5 @@ If possible, add a short description focused on **what job the product is useful
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=LHL3341/awesome-claws&type=Date" />
  </picture>
 </a>
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
