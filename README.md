@@ -144,6 +144,7 @@ For paper reading, reference management, citation exploration, and building AI-n
 For measuring whether OpenClaw-style assistants can complete real tasks before they are deployed.
 
 - [**TIGER-AI-Lab/ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/TIGER-AI-Lab/ClawBench?style=flat-square) — Open-source benchmark that runs OpenClaw and other web agents through everyday tasks on live websites, with isolated execution, request interception, and five-layer traces. [Project](https://claw-bench.com) · [Paper](https://arxiv.org/abs/2604.08523).
+- [**OpenBMB/EC2-Bench**](https://github.com/OpenBMB/EC2-Bench) ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/OpenBMB/EC2-Bench?style=flat-square) — Benchmark of 128 executable OpenClaw workspace tasks for deciding when a local (edge) model should call a cloud model; compares query routing, per-step routing, edge-controlled delegation and advisory on task success, cloud cost, edge FLOPs, and privacy exposure. [Project](https://passionate11.github.io/ec2-bench-project-page/) · [Paper](https://arxiv.org/abs/2610.17816).
 
 ## Coding
 

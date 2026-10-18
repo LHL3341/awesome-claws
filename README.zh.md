@@ -163,6 +163,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 适用于在部署前检验 OpenClaw 风格助手能否完成真实任务。
 
 - [**TIGER-AI-Lab/ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/TIGER-AI-Lab/ClawBench?style=flat-square) — 开源基准测试工具，让 OpenClaw 及其他网页 Agent 在真实网站上执行日常任务，并提供隔离运行、请求拦截与五层轨迹记录。[项目主页](https://claw-bench.com) · [论文](https://arxiv.org/abs/2604.08523)。
+- [**OpenBMB/EC2-Bench**](https://github.com/OpenBMB/EC2-Bench) ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/OpenBMB/EC2-Bench?style=flat-square) — 端云协同 Agent 基准：128 个可执行的 OpenClaw 数字办公任务，比较查询级路由、逐步路由、端侧主导委托与端侧主导咨询四种协同策略，同时评测任务完成度、云端成本、端侧 FLOPs 与隐私暴露。[项目主页](https://passionate11.github.io/ec2-bench-project-page/) · [论文](https://arxiv.org/abs/2610.17816)。
 
 ## 编程开发
 
