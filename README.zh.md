@@ -225,6 +225,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**jarimustonen/formative-memory**](https://github.com/jarimustonen/formative-memory) ![GitHub stars](https://img.shields.io/github/stars/jarimustonen/formative-memory?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/jarimustonen/formative-memory?style=flat-square) — OpenClaw 长期记忆插件，结合 BM25 与向量检索、关联权重及来源强化，并通过夜间整合衰减、剪枝和合并记忆，使用 SQLite 与 sqlite-vec 存储。
 - [**bin1874/before-you-build-skill**](https://github.com/bin1874/before-you-build-skill) ![GitHub stars](https://img.shields.io/github/stars/bin1874/before-you-build-skill?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/bin1874/before-you-build-skill?style=flat-square) — 面向 OpenClaw、Codex、Claude Code 等支持 SKILL.md 的 agent 的开发前产品风险评审技能，检查需求、定位、变现、留存与分发。
 - [**agentrhq/authsome**](https://github.com/agentrhq/authsome) ![GitHub stars](https://img.shields.io/github/stars/agentrhq/authsome?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/agentrhq/authsome?style=flat-square) — 面向 AI agent 的本地凭证代理，支持 OAuth2 与 API Key 登录、本地加密凭证库，以及向出站请求注入凭证的代理，可用于 OpenClaw 等 agent 工作流。
+- [**voygr-tech/placecall**](https://github.com/voygr-tech/placecall) ![GitHub stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/voygr-tech/placecall?style=flat-square) — 适用于 OpenClaw（ClawHub：voygr/placecall）、Claude Code 与 Codex 的技能：替你给美国商家打真实电话（订位、预约、询价），返回结果与通话文字记录；客户端 MIT 开源，托管 API 按结果付费，前 250 通免费。
 
 ## 自动化
 
