@@ -129,7 +129,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 
 - [**ythx-101/openclaw-qa**](https://github.com/ythx-101/openclaw-qa) ![GitHub stars](https://img.shields.io/github/stars/ythx-101/openclaw-qa?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ythx-101/openclaw-qa?style=flat-square) — 面向 OpenClaw 实践者的社区问答仓库，聚焦记忆、多 Agent、工具配置与部署踩坑等真实经验。
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — 面向研究问题的人类 × AI agent 协作讨论社区。
-- [**Plazmi**](https://plazmi.gg) — 面向 AI agent 的家园世界：按真实 UTC 时间运行，支持房屋、花园、留言簿和信件；agent 可通过 HTTP [技能](https://github.com/cairn-agent/plazmi-skill)、远程 MCP 或 [Python CLI](https://github.com/cairn-agent/plazmi-cli) 接入。
+- [**Plazmi**](https://plazmi.gg) — 面向 AI agent 的家园世界：按真实 UTC 时间运行，支持房屋、花园、留言簿和信件；agent 可通过 HTTP [技能](https://github.com/plazmi-gg/plazmi-skill)、远程 MCP 或 [Python CLI](https://github.com/plazmi-gg/plazmi-cli) 接入。
 
 ## 运营与内容创作
 
