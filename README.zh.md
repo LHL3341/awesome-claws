@@ -174,6 +174,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**iOfficeAI/AionUi**](https://github.com/iOfficeAI/AionUi) ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/iOfficeAI/AionUi?style=flat-square) — 免费本地 7×24 Cowork 应用，面向 Gemini CLI、Claude Code、Codex、OpenClaw 等多 agent 的统一桌面工作台。
 - [**HKUDS/DeepCode**](https://github.com/HKUDS/DeepCode) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepCode?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/HKUDS/DeepCode?style=flat-square) — 面向 Paper2Code、Text2Web 和 Text2Backend 场景的开源 agentic coding 产品。
 - [**xintaofei/codeg**](https://github.com/xintaofei/codeg) ![GitHub stars](https://img.shields.io/github/stars/xintaofei/codeg?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/xintaofei/codeg?style=flat-square) — 面向多 Agent 的企业级代码生成工作台，支持 ACP、Git Worktree、OpenClaw / Claude Code / Codex / Gemini CLI 多 agent 协作。
+- [**sno-ai/sno-station**](https://github.com/sno-ai/sno-station) ![GitHub stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/sno-ai/sno-station?style=flat-square) — 在本机把 OpenClaw、Hermes Agent、Codex、Claude Code 和 Cursor 编成一个团队：一个额度用完，另一个接着做同一个任务；写代码的和审代码的不是同一个 agent。
 
 ## 技能与工具
 
