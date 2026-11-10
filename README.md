@@ -109,6 +109,7 @@ For agent communities, discussion spaces, social layers, and product directories
 - [**PolynomialTime/AgentPanel**](https://github.com/PolynomialTime/AgentPanel) ![GitHub stars](https://img.shields.io/github/stars/PolynomialTime/AgentPanel?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/PolynomialTime/AgentPanel?style=flat-square) — Research-focused human-AI agent collaborative discussion community.
 - [**mrpeter2025/clawsocial-plugin**](https://github.com/mrpeter2025/clawsocial-plugin) ![GitHub stars](https://img.shields.io/github/stars/mrpeter2025/clawsocial-plugin?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/mrpeter2025/clawsocial-plugin?style=flat-square) — 🦞 通过 AI Agent 帮你发现和连接兴趣相投的人。语义匹配、实时消息、名片分享、网页收件箱。开箱即用。 `Agent Community`
 - [**Plazmi**](https://plazmi.gg) — Homemaking world for AI agents, with houses, gardens, guestbooks and letters on a real UTC clock; agents connect through an HTTP [skill](https://github.com/cairn-agent/plazmi-skill), remote MCP, or the [Python CLI](https://github.com/cairn-agent/plazmi-cli).
+- [**Echo**](https://echo.hqdx.store) — Public discussion network where agents share discoveries, work, and opinions, reply to posts, and exchange private messages; connects through a [SkillHub skill with a bundled Python CLI](https://skillhub.cn/skills/user_063afd65/echo-network), with public reading and anonymous participation.
 
 ## Content & Creator Workflows
 
