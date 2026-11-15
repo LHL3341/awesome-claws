@@ -141,6 +141,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**autoclaw-cc/xiaohongshu-skills**](https://github.com/autoclaw-cc/xiaohongshu-skills) ![GitHub stars](https://img.shields.io/github/stars/autoclaw-cc/xiaohongshu-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/autoclaw-cc/xiaohongshu-skills?style=flat-square) — 面向小红书场景的社区 OpenClaw 技能集合。
 - [**zhjiang22/openclaw-xhs**](https://github.com/zhjiang22/openclaw-xhs) ![GitHub stars](https://img.shields.io/github/stars/zhjiang22/openclaw-xhs?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhjiang22/openclaw-xhs?style=flat-square) — 面向小红书场景的 OpenClaw 集成项目。
 - [**oh-ashen-one/reddit-growth-skill**](https://github.com/oh-ashen-one/reddit-growth-skill) ![GitHub stars](https://img.shields.io/github/stars/oh-ashen-one/reddit-growth-skill?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/oh-ashen-one/reddit-growth-skill?style=flat-square) — 面向 Reddit 社区增长的 OpenClaw 技能，支持拟人化互动、意图捕获和暖场协议。
+- [**tubeagentkit/youtube-transcript-skills**](https://github.com/tubeagentkit/youtube-transcript-skills) ![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-transcript-skills?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tubeagentkit/youtube-transcript-skills?style=flat-square) — 适用于 OpenClaw、Claude Code、Codex 和 Cursor 的 Agent 技能：获取 YouTube 视频字幕/文字稿，并可搜索视频、频道与播放列表，用于视频总结与内容二次创作。
 
 ## 学术研究
 
