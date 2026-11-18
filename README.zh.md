@@ -313,6 +313,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**23blocks-OS/ai-maestro**](https://github.com/23blocks-OS/ai-maestro) ![GitHub stars](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/23blocks-OS/ai-maestro?style=flat-square) — AI Agent 编排器，统一看板管理多个 coding agent，内置持久记忆、agent 间通信与跨机器支持。
 - [**tugcantopaloglu/openclaw-dashboard**](https://github.com/tugcantopaloglu/openclaw-dashboard) ![GitHub stars](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tugcantopaloglu/openclaw-dashboard?style=flat-square) — 安全的 OpenClaw 实时监控看板，支持认证、TOTP MFA、成本追踪、实时动态和记忆浏览器。
 - [**flik2002/openclaw-monitor**](https://github.com/flik2002/openclaw-monitor) ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/flik2002/openclaw-monitor?style=flat-square) — 开源 OpenClaw 监控看板，展示本地会话、token 使用量、七日趋势与系统指标。
+- [**madarco/controlclaw**](https://github.com/madarco/controlclaw) ![GitHub stars](https://img.shields.io/github/stars/madarco/controlclaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/madarco/controlclaw?style=flat-square) — OpenClaw 的 AI 防火墙和控制面板。一个防火墙可服务多个智能体：按自然语言规则检查每个请求和 MCP 调用，密码和 API 密钥只保存在防火墙上，高风险操作需要你批准。
 
 ## 精选列表与用例
 
